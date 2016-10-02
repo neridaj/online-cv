@@ -16,7 +16,7 @@ style: styles-6
 
 #Profile information
 name: Jason Nerida
-tagline: Fron End Developer
+tagline: Web Developer
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 resume: jason_nerida_resume_2016.pdf
 
